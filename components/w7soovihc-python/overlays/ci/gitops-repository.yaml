@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w7soovihc-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/w7soovihc-python-gitops
